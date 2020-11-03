@@ -2380,13 +2380,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 41.958008
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2485,13 +2489,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.5683594
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2619,13 +2627,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27.700012
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.400001
+      value: 18.600006
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3144,7 +3156,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &288304798
 PrefabInstance:
@@ -3313,7 +3325,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &299134533 stripped
 GameObject:
@@ -3461,13 +3473,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -33.73169
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3593,7 +3609,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!4 &335914574 stripped
 Transform:
@@ -3638,7 +3654,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &340186151
 PrefabInstance:
@@ -4422,13 +4438,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.600037
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5168,13 +5188,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 43.458008
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5626,7 +5650,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &510879268 stripped
 GameObject:
@@ -5714,7 +5738,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &523416131
 PrefabInstance:
@@ -5846,13 +5870,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -25.989685
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5975,13 +6003,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 43.458008
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6107,7 +6139,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &555336313
 PrefabInstance:
@@ -6534,7 +6566,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &596574794 stripped
 GameObject:
@@ -6574,7 +6606,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &617356582
 PrefabInstance:
@@ -6587,13 +6619,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 59.057983
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6697,13 +6733,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 37.42633
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7101,7 +7141,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &654278049
 PrefabInstance:
@@ -7424,13 +7464,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 60.557983
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7648,7 +7692,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &717945520
 GameObject:
@@ -8480,7 +8524,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &860195054
 PrefabInstance:
@@ -8811,7 +8855,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &873136748
 PrefabInstance:
@@ -8929,13 +8973,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27.700012
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9712,7 +9760,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &912829226
 PrefabInstance:
@@ -9904,13 +9952,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 68.29999
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10645,13 +10697,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -19.958008
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10777,7 +10833,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &985966757
 PrefabInstance:
@@ -10952,13 +11008,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -35.23169
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11764,13 +11824,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 51.200012
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12619,13 +12683,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.0683594
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12724,13 +12792,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 66.58966
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -13399,7 +13471,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1238511502 stripped
 GameObject:
@@ -13694,13 +13766,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -33.73169
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -13799,13 +13875,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 66.58966
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -13931,7 +14011,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1274578505 stripped
 GameObject:
@@ -14444,7 +14524,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1335407404 stripped
 GameObject:
@@ -14484,7 +14564,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1341439505
 PrefabInstance:
@@ -14910,7 +14990,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!4 &1377138137 stripped
 Transform:
@@ -14955,7 +15035,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1390061972
 PrefabInstance:
@@ -15288,13 +15368,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 37.42633
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -15522,13 +15606,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 65.08966
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.6
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16069,7 +16157,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1504600190
 PrefabInstance:
@@ -16214,7 +16302,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1516427372 stripped
 GameObject:
@@ -16367,13 +16455,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 45.168335
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16862,7 +16954,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1582514660 stripped
 GameObject:
@@ -17451,7 +17543,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1663794194
 PrefabInstance:
@@ -17665,7 +17757,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1671186306
 PrefabInstance:
@@ -19030,7 +19122,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1816661774 stripped
 GameObject:
@@ -19115,13 +19207,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.8580322
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -19220,13 +19316,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.600037
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -19437,7 +19537,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1870572014
 PrefabInstance:
@@ -19450,13 +19550,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 74.331665
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -19794,13 +19898,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.100037
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -19968,13 +20076,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -29.200012
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20508,13 +20620,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.5683594
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399998
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20750,7 +20866,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1953164100
 GameObject:
@@ -20910,7 +21026,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &1970199038 stripped
 GameObject:
@@ -20950,7 +21066,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1001 &1985693400
 PrefabInstance:
@@ -21068,13 +21184,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 60.557983
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.399997
+      value: 18.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -21499,13 +21619,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.173645
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2399235
+      value: 6.439928
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -21703,7 +21827,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 116
   m_CollisionDetection: 0
 --- !u!1 &2058820019 stripped
 GameObject:
@@ -21845,13 +21969,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystalsv06 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1864742499577446, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
+      propertyPath: m_TagString
+      value: Orbiting Crystals
+      objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.x
       value: 35.92633
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.399998
+      value: 19.600002
       objectReference: {fileID: 0}
     - target: {fileID: 4618117445236788, guid: 4aa7f4f0acab60742bea9a9f6a3bb144, type: 3}
       propertyPath: m_LocalPosition.z
