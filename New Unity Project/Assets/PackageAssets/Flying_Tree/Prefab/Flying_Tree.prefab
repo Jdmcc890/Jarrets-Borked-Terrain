@@ -202,6 +202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400006}
   - component: {fileID: 9500000}
+  - component: {fileID: 7114373079064211203}
   m_Layer: 0
   m_Name: Flying_Tree
   m_TagString: Untagged
@@ -245,3 +246,30 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &7114373079064211203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97848506104099742b0dcdcafaa3aa42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OC1: {fileID: 0}
+  OC2: {fileID: 0}
+  OC3: {fileID: 0}
+  OC4: {fileID: 0}
+  EventTrigger: {fileID: 0}
+  MinimumIntensity: 0
+  MaximumIntensity: 0
+  ALight1: {fileID: 0}
+  ALight2: {fileID: 0}
+  ALight3: {fileID: 0}
+  ALight4: {fileID: 0}
+  ALight5: {fileID: 0}
+  PLight1: {fileID: 0}
+  PLight2: {fileID: 0}
+  PLight3: {fileID: 0}
