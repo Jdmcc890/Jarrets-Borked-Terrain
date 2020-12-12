@@ -10,11 +10,13 @@ public class ForestLighting : MonoBehaviour
     public Material ForestSkybox;
     public Material currentSkybox;
     public Material NormalSkybox;
+    public Light DayLight;
+    public Light NightLight;
 
-    public void Start()
+    public void FixedUpdate()
     {
         currentSkybox = RenderSettings.skybox;
-        Debug.Log(currentSkybox);
+
     }
 
     public void OnTriggerEnter(Collider other)
@@ -25,8 +27,8 @@ public class ForestLighting : MonoBehaviour
             Debug.Log("Loading Night Scene");
             RenderSettings.skybox = ForestSkybox;
             RenderSettings.fog = true;
-            GameObject.Find("DayLighting").SetActive(false);
-            GameObject.Find("NightLighting").SetActive(true);
+            DayLight.gameObject.SetActive(false);
+            NightLight.gameObject.SetActive(true);
         }
 
         if (other.tag == "Player" && currentSkybox == ForestSkybox)
@@ -34,8 +36,8 @@ public class ForestLighting : MonoBehaviour
             Debug.Log("Loading Day Scene");
             RenderSettings.skybox = NormalSkybox;
             RenderSettings.fog = false;
-            GameObject.Find("DayLighting").SetActive(true);
-            GameObject.Find("NightLighting").SetActive(false);
+            DayLight.gameObject.SetActive(true);
+            NightLight.gameObject.SetActive(false);
         }
     }
 }
