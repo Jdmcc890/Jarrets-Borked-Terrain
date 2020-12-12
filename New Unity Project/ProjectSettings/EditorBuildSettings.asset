@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenuComponents/MainMenuVer..unity
+    guid: 405b9a58ff5214341a83e1d64696c34b
+  - enabled: 1
+    path: Assets/Scenes/Terrain Building Project WD.unity
+    guid: e4a28124000369147aff70a95040a32d
+  - enabled: 1
+    path: Assets/Scenes/Interior Dungeon.unity
+    guid: 84b1c727643a99a4eb2dbfea89dd36fc
+  - enabled: 1
+    path: Assets/Scenes/House Interior.unity
+    guid: 4de8d49df1e356c4facd538e5d53b049
   m_configObjects: {}
